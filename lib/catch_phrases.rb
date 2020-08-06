@@ -12,3 +12,7 @@ def link
   phrase = "It's Dangerous TO Go Alone! Take This."
   puts phrase
 end
+
+puts mario
+puts toadstool
+puts link
